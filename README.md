@@ -1,4 +1,4 @@
-## Olá eu sou Kleber Xavier e sou Front end Developer !
+## Hello I'm Kleber Xavier and Front end Developer !
 
 💪🏼 I'm currently working front end developer<br>
 🎓 I'm studying systems analysis and development at Mackenzie<br>

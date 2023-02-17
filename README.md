@@ -1,6 +1,6 @@
 ## Hello I'm Kleber Xavier - Front end Developer !
 
-💪🏼 I'm currently working front end developer<br>
+💪🏼 I'm currently looking for a job as a front-end developer<br>
 🎓 I'm studying systems analysis and development at Mackenzie<br>
 🤖 I'm passionate about technology<br>
 🎨 My hobby is creating art - UX/UI<br>
